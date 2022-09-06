@@ -24,10 +24,8 @@
     "url": "https://github.com/__module_owner/__module_name/issues"
   },
   "homepage": "https://__module_domain",
-  "dependencies": {
-  },
   "devDependencies": {
     "mocha": "^8.4.0",
-    "prepare-package": "^0.0.13"
+    "prepare-package": "^0.0.16"
   }
 }
