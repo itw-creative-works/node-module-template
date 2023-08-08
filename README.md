@@ -31,7 +31,7 @@ Yes, this module works in both Node and browser environments, including compatib
 * Getting proxy lists
 
 ### Getting an API key
-You can use so much of `__module_name` for free, but if you want to do some advanced stuff, you'll need an API key. You can get one by [signing up for a __module_title account](https://__module_domain/authentication/signup).
+You can use so much of `__module_name` for free, but if you want to do some advanced stuff, you'll need an API key. You can get one by [signing up for a __module_title account](https://__module_domain/signup).
 
 ## Install __module_title
 ### Install via npm
