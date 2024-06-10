@@ -17,6 +17,15 @@
   "engines": {
     "node": ">=6.0.0"
   },
+  "os": [
+    "darwin",
+    "linux",
+    "win32"
+  ],
+  "cpu": [
+    "x64",
+    "arm64"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/__module_owner/__module_name"
