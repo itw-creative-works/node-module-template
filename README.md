@@ -80,7 +80,7 @@ After you have followed the install step, you can start using `__module_name` to
 For a more in-depth documentation of this library and the __module_title service, please visit the official __module_title website.
 
 ## 📝 What Can __module_title do?
-__module_title is a free text snippet manager that lets you [create custom text snippets](https://__module_domain) that you can access on all of your devices!
+__module_description
 
 ## 🗨️ Final Words
 If you are still having difficulty, we would love for you to post
