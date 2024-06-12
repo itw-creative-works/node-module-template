@@ -28,7 +28,7 @@
 Yes, this module works in both Node and browser environments, including compatibility with [Webpack](https://www.npmjs.com/package/webpack) and [Browserify](https://www.npmjs.com/package/browserify)!
 
 ## 🦄 Features
-* Getting proxy lists
+* __module_feature
 
 ## 🔑 Getting an API key
 You can use so much of `__module_name` for free, but if you want to do some advanced stuff, you'll need an API key. You can get one by [signing up for a __module_title account](https://__module_domain/signup).
