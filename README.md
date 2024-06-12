@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://cdn.itwcreativeworks.com/assets/__asset_file_name/images/logo/__asset_file_name-brandmark-black-x.svg">
+  <a href="https://__module_domain">
     <img src="https://cdn.itwcreativeworks.com/assets/__asset_file_name/images/logo/__asset_file_name-brandmark-black-x.svg" width="100px">
   </a>
 </p>
