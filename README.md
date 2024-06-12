@@ -21,7 +21,7 @@
   <a href="https://__module_domain">Site</a> | <a href="https://www.npmjs.com/package/__module_name">NPM Module</a> | <a href="https://github.com/__module_owner/__module_name">GitHub Repo</a>
   <br>
   <br>
-  <strong>__module_name</strong> is the official npm module of <a href="https://__module_domain">__module_title</a>, a free app for creating custom text snippets that you can access on all of your devices!
+  <strong>__module_name</strong> is the official npm module of <a href="https://__module_domain">__module_title</a>, a free app for __module_feature.
 </p>
 
 ## 🌐 __module_title Works in Node AND browser environments
@@ -75,7 +75,7 @@ __module_name.run(options);
 ```
 
 ## 📘 Using __module_title
-After you have followed the install step, you can start using `__module_name` to create custom text snippets that you can access on all of your devices
+After you have followed the install step, you can start using `__module_name` to enhance your project.
 
 For a more in-depth documentation of this library and the __module_title service, please visit the official __module_title website.
 
