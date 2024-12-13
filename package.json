@@ -1,10 +1,11 @@
 {
   "TODO": "__module_domain, __module_name, __asset_file_name, __module_owner, __module_title, __module_class_name, __module_description, __module_feature",
   "name": "__module_name",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "__module_description",
   "main": "./dist/index.js",
   "scripts": {
+    "start": "node ./dist/index.js",
     "test": "npm run prepare && ./node_modules/mocha/bin/mocha test/ --recursive --timeout=10000",
     "prepare": "node -e 'require(`prepare-package`)()'",
     "prepare:watch": "nodemon -w ./src -e '*' --exec 'npm run prepare'"
