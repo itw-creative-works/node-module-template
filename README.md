@@ -42,7 +42,7 @@ npm install __module_name
 If you plan to use `__module_name` in a browser environment, you will probably need to use [Webpack](https://www.npmjs.com/package/webpack), [Browserify](https://www.npmjs.com/package/browserify), or a similar service to compile it.
 
 ```js
-const __module_name = new (require('__module_name'))({
+const __module_instance_name = new (require('__module_name'))({
   // Not required, but having one removes limits (get your key at https://__module_domain).
   apiKey: 'api_test_key'
 });
@@ -53,7 +53,7 @@ Install with CDN if you plan to use __module_title only in a browser environment
 ```html
 <script src="https://cdn.jsdelivr.net/npm/__module_name@latest/dist/index.min.js"></script>
 <script type="text/javascript">
-  var __module_name = new __module_class_name({
+  var __module_instance_name = new __module_class_name({
     // Not required, but having one removes limits (get your key at https://__module_domain).
     apiKey: 'api_test_Key'
   });
@@ -69,9 +69,9 @@ curl -X POST https://api.__module_domain
 ```
 
 ## ⚡️ Usage
-### __module_name.run(options)
+### __module_instance_name.run(options)
 ```js
-__module_name.run(options);
+__module_instance_name.run(options);
 ```
 
 ## 📘 Using __module_title
